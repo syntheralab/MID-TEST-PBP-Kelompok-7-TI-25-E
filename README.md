@@ -28,4 +28,4 @@ Server berjalan di http://localhost:3000
 | GET | /statistik | Statistik pendakian |
 
 ## Pengujian
-Screenshot pengujian Postman ada di folder PDF Laporan
+Screenshot pengujian Postman ada di file PDF DOKUMENTASI & LAPORAN
